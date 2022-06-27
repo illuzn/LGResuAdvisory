@@ -69,7 +69,3 @@ The Author recommends that all customers immediately change the password of thei
 ## Copyright/ Intellectual Property
 The LG trademark is used purely with fair use to refer to their products. No association or relationship with LG is intended or implied through the use of this trademark.
 All images used on this website are extracted from the manual for the LGES 5048 Inverter. These images are used under fair use to facilitate the discussion on this page.
-
-
-## Thanks
-I would like to thank Solar Quotes for their amazing website and freely available resources.
